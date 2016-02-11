@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./colluthilycopol01abelgoog_0006.png"; bbox 0 0 3210 4836; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 236 601 1291 812">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 236 601 1291 812">
+     <span class='ocr_line' id='line_1_1' title="bbox 236 601 1291 812; baseline -0.001 -53"><span class='ocrx_word' id='word_1_1' title='bbox 236 601 645 812; x_wconf 70' lang='lat' dir='ltr'><strong>§OLLUTHI</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 688 601 1291 759; x_wconf 75' lang='lat' dir='ltr'>LYCOPOLITANI</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 4 1179 1356 1355">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 4 1179 1356 1355">
+     <span class='ocr_line' id='line_1_2' title="bbox 4 1179 1356 1355; baseline 0.001 -50"><span class='ocrx_word' id='word_1_3' title='bbox 4 1349 8 1355; x_wconf 75' lang='lat'><em>.</em></span> <span class='ocrx_word' id='word_1_4' title='bbox 173 1179 490 1305; x_wconf 84' lang='lat' dir='ltr'><strong>CARMEN</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 533 1180 629 1305; x_wconf 88' lang='lat' dir='ltr'><strong>DE</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 673 1179 933 1306; x_wconf 80' lang='lat' dir='ltr'><strong>RAPTU</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 976 1180 1356 1306; x_wconf 80' lang='lat' dir='ltr'>HELENAE.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 547 2398 980 2494">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 547 2398 980 2494">
+     <span class='ocr_line' id='line_1_3' title="bbox 547 2398 980 2494; baseline 0.007 -4"><span class='ocrx_word' id='word_1_8' title='bbox 547 2398 806 2492; x_wconf 85' lang='lat' dir='ltr'><strong>EUGENIUS</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 833 2399 980 2494; x_wconf 78' lang='lat' dir='ltr'>ABEL.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 353 3309 1170 3324">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 353 3309 1170 3324">
+     <span class='ocr_line' id='line_1_4' title="bbox 353 3309 1170 3324; baseline -0.001 -2"><span class='ocrx_word' id='word_1_10' title='bbox 353 3309 1170 3324; x_wconf 67' lang='lat'><strong>———-—————-——</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 642 3636 874 3713">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 642 3636 874 3713">
+     <span class='ocr_line' id='line_1_5' title="bbox 642 3636 874 3713; baseline 0.013 -3"><span class='ocrx_word' id='word_1_11' title='bbox 642 3636 874 3713; x_wconf 88' lang='lat' dir='ltr'>BEROLINI</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_6' title="bbox 0 0 1610 4836">
+    <p class='ocr_par' dir='ltr' id='par_1_6' title="bbox 0 0 1610 4836">
+     <span class='ocr_line' id='line_1_6' title="bbox 0 0 1610 4836; baseline 0 0"><span class='ocrx_word' id='word_1_12' title='bbox 0 0 1610 4836; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
